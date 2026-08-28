@@ -1,6 +1,6 @@
 ---
 name: comment-response-format
-description: Implementation SOP for the Comment Response ad format (AMA / question-box) — a question sticker over a selfie, POV, or lifestyle image, answered in native text overlay by a real-seeming person. Use whenever executing a Comment Response ad, AMA ad, or question-box ad from a messaging angle. Governs how the ad is built and written; the messaging angle governs what it says. Never write this format's copy without loading this SOP — the format fails entirely if the text reads processed.
+description: Implementation SOP for the Comment Response ad format. A real Instagram or TikTok comment or question (question sticker or comment bubble) acknowledged and answered by a real-seeming person, delivered either as free-placed native text overlay (static) or as the video's on-camera response. Use whenever executing a Comment Response ad, AMA ad, question-box ad, or comment-reply video from a messaging angle. The messaging angle governs what it says; this SOP governs how it is built. Never write this format's copy without loading this SOP: the format fails entirely if the text reads processed.
 ---
 
 ## Reference examples (look here first)
@@ -8,9 +8,9 @@ description: Implementation SOP for the Comment Response ad format (AMA / questi
 Real, live-in-market examples of this format are saved in the brain alongside this SOP:
 
 - **Reference examples:** They sit in this same folder, right next to this SOP.
-- This SOP lives inside that same `comment-response/` folder, so the example creatives are the image files sitting next to it.
+- This SOP lives inside that same `comment-response/` folder, so the example creatives (images and the video replies) sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that `comment-response/` folder and study the example images before writing.** Use them to calibrate the sticker bar, the question phrasing, the casting, and the native-text reply architecture. They are the visual source of truth for what a passing Comment Response ad looks like; the rules below are how to reproduce what they do.
+**Whenever this SOP is triggered or referenced, open this `comment-response/` folder and study the example creatives before writing.** Use them to calibrate the sticker bar or comment bubble, the question phrasing, the casting, and the native-text (or spoken) reply architecture. They are the visual source of truth for what a passing Comment Response ad looks like; the rules below are how to reproduce what they do.
 
 
 For "is this ad a Comment Response?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building and writing one.
@@ -19,9 +19,18 @@ For "is this ad a Comment Response?" naming/classification questions, use `class
 
 ## What this format is
 
-A static built to look like an organic story reply: an Instagram-style question box (short prompt in the black bar, user-typed question in the white section) over a selfie, POV, or lifestyle image, answered by the account owner in free-placed native text overlay.
+At its core: a real-looking comment or question from Instagram or TikTok, acknowledged and answered by a real-seeming person, built so nothing in it reads as an ad. The viewer isn't being addressed. They are reading (or watching) someone else's exchange. That is why the format works, and it only works while it stays native. The one property to protect above everything: **the reply must read like a real person, typed or spoken.** One corporate sentence kills the whole unit.
 
-The viewer isn't being addressed — they're reading someone else's exchange. That's why the format works, and it only works while nothing in it reads as an ad. The one property to protect above everything: **the reply must read like a person typed it.** One corporate sentence kills the whole unit.
+**Where the comment comes from (pick one, all valid):**
+- Instagram question sticker (the black-bar prompt plus white question box). The original AMA form.
+- Instagram comment bubble (a real-looking comment with username/avatar chrome).
+- TikTok comment bubble, including TikTok's native "Reply to @user" comment sticker.
+
+**How the reply is delivered (pick one):**
+- **Static / text-overlay:** free-placed native text answering the comment over a selfie, POV, or lifestyle image. This is the detailed playbook below (Anatomy, Register rules, Length caps).
+- **Video:** the creator reads or references the comment on camera and their spoken response is the ad. Same register and voice rules apply to the VO. See the "Video variant" section below for what changes.
+
+The rest of this SOP is written for the static / text-overlay build, the most exacting version. Every voice and register rule carries straight over to the video build; the "Video variant" section covers only what is different.
 
 ## Inputs
 
@@ -31,9 +40,11 @@ If no VOC is available, say so and gather language first — the question and re
 
 ## Anatomy — four layers
 
-### 1 · Sticker bar (black pill)
+### 1 · Sticker bar (black pill) or comment bubble
 
 Two to five words naming the ritual, not the brand. One emoji max. "Ask me anything" is the reliable default; a custom sticker may name the audience or the scene instead. Never "FAQ."
+
+If the source is a comment bubble instead of a question sticker (an Instagram comment or a TikTok "Reply to @user"), the bubble replaces the black pill: keep the native chrome (username, avatar, and on TikTok the reply-sticker styling) and let the comment itself pose the thing being answered.
 
 **Match the sticker to the concept when one fits.** The default is "Ask me anything," but in a perfect world the sticker is a short prompt that ties to what the ad is actually about, e.g. "questions about creative strategy?" for a creative-strategy concept, or "ama about ai" for an AI concept. Concept-matched beats generic; fall back to "Ask me anything" only when nothing natural fits.
 
@@ -80,6 +91,19 @@ Free-placed blocks around the subject. The blocks are the paragraphs — the vis
 - **Tint the highlight boxes with the brand's accent color** to tie the ad in without breaking the native feel (Preply's yellow). Keep contrast high and the text legible at thumb size.
 - Whatever the treatment, the words still have to read like a person typed them. Styling makes it on-brand; it never makes processed copy pass.
 
+## Video variant (on-camera response)
+
+Use this when the reply is spoken or enacted instead of typed (e.g. the Javvy example in this folder). Everything about voice, verdict-first structure, and native feel is identical; only the delivery changes.
+
+- **Show the comment, then answer it.** Open by surfacing the specific comment or question, then respond. On TikTok, the native "Reply to @user" comment sticker is the cleanest anchor; on Instagram, screen-record or recreate the comment or question bubble in the first beat. The viewer must see or hear what is being answered within the first 2 seconds.
+- **The hook is the comment plus the first line of the answer.** Let the comment sit on screen (or read it) and go straight into the verdict or the reaction. No "hey guys," no intro. Same rule as the static first line: react to the person or land the verdict, never context-set.
+- **Reference the comment out loud.** "Someone asked…", "you said…", "replying to this…" makes the response feel earned. The comment is the reason the video exists, so name it.
+- **Casting and setting:** peer answers peer, mid-life not mid-ad. Front-camera selfie, talking head, or POV. No studio polish. The same "would the asker really ask this person" test applies.
+- **Keep text overlay as reinforcement, not a script.** A short on-screen caption of the comment (and optionally a one-line verdict) helps sound-off viewers, but the spoken answer carries it. Do not paste the full static reply on screen and read it word for word.
+- **Structure the VO on the same architectures** (verdict-first story, validation opener, it's-not-you reframe, concede-first). The three-beat close still lands best: reframe or verdict, then mechanism (why this one is different), then a dated outcome ("within 3 weeks…").
+- **Length:** treat it like a short talking-head. Aim 15 to 40 seconds. The answer starts immediately and the product enters mid-story, named once the way a person would say it. Captions on.
+- **Claims travel with the format.** A spoken anecdote-outcome in a regulated category is still a claim and still needs substantiation; any certification named must be real and current.
+
 ## Register rules (priority order)
 
 1. **Answer the person, not the topic.** The first line reacts to the asker or delivers the verdict — never context-setting, never a thesis.
@@ -120,8 +144,8 @@ If the idea needs more than 80 words, it's two ads. Cut order when over: the fin
 6. **Register pass** — rules 1–10, in order.
 7. **Length pass** — caps and cut order.
 8. **Claims pass** — no absolutes; every number and capability validated against the project's claim flags. **In regulated categories (Rx/health, hormones, supplements, baby safety, finance), a personal-anecdote outcome ("within 3 weeks my mood swings were gone") is still a claim** — it needs substantiation and claim-flag review, and any certification named (LegitScript, greenguard, clinical) must be real and current. The story voice does not exempt the copy from compliance.
-9. **Design handoff** — question box in the top third (it's the hook and gets read first); blocks placed with visible gaps; alternating alignment fine; CTA pill only on brand-cast or warm retarget.
-10. **Deliver:** sticker text, question, reply blocks in order, casting note, image direction, any claims flags.
+9. **Design handoff** — question box in the top third (it's the hook and gets read first); blocks placed with visible gaps; alternating alignment fine; CTA pill only on brand-cast or warm retarget. For video: comment/reply sticker anchored in the first beat, captions on.
+10. **Deliver:** sticker text (or comment bubble), question, reply blocks in order (or VO script for video), casting note, image/shot direction, any claims flags.
 
 ## QA checklist
 
@@ -137,3 +161,6 @@ If the idea needs more than 80 words, it's two ads. Cut order when over: the fin
 - [ ] Regulated category checked: anecdote-as-claim substantiated, any named certification real and current
 - [ ] Sticker pronoun (me/us) matches the mode; any trust badge named is real
 - [ ] Screenshot test: dropped into a stories feed with no context, nothing reads as an ad before the brand mention
+- [ ] (Video) The specific comment or question is shown or named in the first 2 seconds, and the answer starts immediately
+- [ ] (Video) Spoken reply passes the same register rules; captions on; product enters mid-story, named once
+- [ ] (TikTok) If used, the "Reply to @user" comment sticker or a recreated comment bubble anchors the response
