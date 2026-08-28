@@ -49,7 +49,7 @@ If there's no real evidence to show, get it. A greenscreen with a fabricated scr
 2. **The screen carries the proof; the voice carries the meaning.** Don't say what's already legible on screen — say what it *means*.
 3. **One evidence, one point, then cut.** New claim, new screenshot. Momentum is the format.
 4. **Point at it.** Circle, highlight, zoom the exact line. If the viewer has to hunt for what you mean, you lost them.
-5. **Casual, low-effort look is a feature, not a bug** — it's what makes the evidence feel found. (See the mechanic: `/agent/brain/team/alysha/context-engine/2. ideation/creative strategy engine/creative-mechanics/casual-disarm-effort-mismatch.md`.)
+5. **Casual, low-effort look is a feature, not a bug** — it's what makes the evidence feel found. (This is the casual-disarm / effort-mismatch mechanic: the production reads as found, not made.)
 6. **Specificity is credibility.** Real sources, real numbers, real quotes on screen. Never fabricate a screenshot or a stat. No absolutes.
 7. **Brand/product enters as the payoff** of the evidence, once, near the end — "this is why I switched to [brand]."
 8. **Banned:** reading the screen verbatim, fake screenshots, "trust me," "designed to," "seamless," absolutes, and a static screen for more than one point.

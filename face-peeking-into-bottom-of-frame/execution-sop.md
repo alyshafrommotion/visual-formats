@@ -19,7 +19,7 @@ For "is this ad this format?" naming/classification questions, use `classificati
 Shoot a casual low-angle front-camera selfie so the face is cut off and sits in the bottom edge of the frame, against whatever plain surface is behind the person. Drop the text overlay in the empty space above the face. Keep it deliberately unstyled. Works with any copy or niche, since the shape is independent of the argument.
 
 ## Related
-- The mechanic that makes the low-effort look pay off: `/agent/brain/team/alysha/context-engine/2. ideation/creative strategy engine/creative-mechanics/casual-disarm-effort-mismatch.md`
+- The mechanic that makes the low-effort look pay off: the casual-disarm / effort-mismatch mechanic (keep it feeling found, not produced).
 
 ## Source
 - Instagram, @livrollings (Liv Rollings, content writer + business mentor): https://www.instagram.com/p/DbNYun7kYpX/
