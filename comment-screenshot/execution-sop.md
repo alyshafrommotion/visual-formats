@@ -1,5 +1,5 @@
 ---
-name: instagram-comment-format
+name: comment-screenshot-format
 description: Implementation SOP for the Instagram Comment ad format — a real (or real-seeming) social comment screenshotted and used as the hero of a static, either standing alone as social proof or answered by the brand. Use whenever executing an IG-comment ad, screenshot-comment ad, or social-proof-comment ad from a messaging angle. Governs how the ad is built and written; the messaging angle governs what it says. This format dies the instant the comment reads like marketing wrote it.
 ---
 
@@ -13,7 +13,7 @@ For "is this ad an Instagram Comment?" naming/classification questions, use `cla
 Real, live-in-market examples of this format are saved in the brain alongside this SOP:
 
 - **Reference examples:** They sit in this same folder, right next to this SOP.
-- This SOP lives inside that same `instagram-comment/` folder, so the example creatives are the image files sitting next to it.
+- This SOP lives inside that same `comment-screenshot/` folder, so the example creatives are the image files sitting next to it.
 
 **Whenever this SOP is triggered or referenced, open this folder and study the example images before writing.** Calibrate the comment styling, who is speaking, and how the brand replies (or whether it replies at all) against what the examples actually do.
 

@@ -1,5 +1,5 @@
 ---
-name: instagram-comment-classification
+name: comment-screenshot-classification
 description: How to identify whether an ad should be classified/named as the Instagram Comment visual format. Use when naming an ad (resolving the Visual Format taxonomy token) or auditing an existing ad's format tag. Distinct from execution-sop.md, which governs how to build one.
 ---
 
@@ -19,7 +19,7 @@ Ask: *does this look like a screenshot of someone else's comment on a post?* If 
 
 ## Commonly confused with
 
-- **Comment Response:** also features social-feeling UI and often a reply, but the hero is a **question sticker** (black bar + white question box), not a comment thread. If there's no visible question-sticker element, it's `instagram-comment`, not `comment-response`.
+- **Comment Response:** also features social-feeling UI and often a reply, but the hero is a **question sticker** (black bar + white question box), not a comment thread. If there's no visible question-sticker element, it's `comment-screenshot`, not `comment-response`.
 - **Instagram Text Overlay:** uses IG's native caption/story text styling directly over an image, no comment-thread chrome (no username/avatar/like count) at all.
 - **Greenscreen:** can also feature a screenshot as evidence, but the creator is composited over it reacting live on video; Instagram Comment is a static comment screenshot, no reacting creator overlay required.
 

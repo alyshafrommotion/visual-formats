@@ -28,7 +28,7 @@ Ask: *does this look like someone answering a question posed through an Instagra
 
 ## Commonly confused with
 
-- **Comment-screenshot (the `instagram-comment` format):** the hero is a **screenshotted real comment** (username, avatar, like count, timestamp), not a question sticker. If you see comment-thread chrome instead of a question sticker, classify it there, not as Comment Response.
+- **Comment-screenshot (the `comment-screenshot` format):** the hero is a **screenshotted real comment** (username, avatar, like count, timestamp), not a question sticker. If you see comment-thread chrome instead of a question sticker, classify it there, not as Comment Response.
 - **Instagram Text Overlay:** IG's native caption/story text with no question being posed and answered. No Q&A structure means `instagram-text-overlay`.
 - **Yapper:** a straight-to-camera monologue with no specific sticker question being answered is `yapper`. A Comment Response video must be anchored to a specific question it is replying to.
 - **Post-it:** handwritten-feeling personal text over a scene, not a platform question sticker.

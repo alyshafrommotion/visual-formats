@@ -25,7 +25,7 @@ Ask: *if you muted the audio and just watched, would you say "this person is sho
 
 ## Commonly confused with
 
-- **Instagram-comment format:** also features a screenshot (a comment/comment thread), but the creator is not necessarily greenscreened reacting to it live, it's often the comment itself as the hero with less live reaction framing. If the comment screenshot is the entire visual and there's no reacting creator overlaid, classify as `instagram-comment`, not Greenscreen.
+- **Comment-screenshot format:** also features a screenshot (a comment/comment thread), but the creator is not necessarily greenscreened reacting to it live, it's often the comment itself as the hero with less live reaction framing. If the comment screenshot is the entire visual and there's no reacting creator overlaid, classify as `comment-screenshot`, not Greenscreen.
 - **Comment-response format:** built to look like a native story reply (a question box over a selfie/lifestyle image, answered via text overlay) — no creator reacting to *external* evidence, classify as `comment-response`.
 - **Yapper:** creator talking straight down the barrel of the camera with no on-screen evidence to react to, that's `yapper`, not Greenscreen. If a yapper-style ad cuts to a screenshot occasionally but spends most of its runtime on unmediated talking-head, judge by which one carries the persuasive weight.
 - **Founder:** founder-to-camera storytelling. If the founder is greenscreened reacting to real evidence (reviews, press, data), it can still be Greenscreen; if they're just telling their story to camera with no on-screen evidence, it's `founder`.

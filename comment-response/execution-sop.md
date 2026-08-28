@@ -25,7 +25,7 @@ At its core: a question posed through an Instagram or TikTok comment-response st
 - Instagram question / comment-response sticker (the black-bar prompt plus white question box). The original AMA form.
 - The TikTok equivalent comment-response sticker.
 
-A screenshotted real comment is a *different* format (see the comment-screenshot / `instagram-comment` format). This format is always the question / comment-response sticker, never a plain comment bubble.
+A screenshotted real comment is a *different* format (see the `comment-screenshot` format). This format is always the question / comment-response sticker, never a plain comment bubble.
 
 **How the reply is delivered (pick one):**
 - **Static / text-overlay:** free-placed native text answering the sticker question over a selfie, POV, or lifestyle image. This is the detailed playbook below (Anatomy, Register rules, Length caps).

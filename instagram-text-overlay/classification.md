@@ -21,7 +21,7 @@ Ask: *if you removed the branding, would this look like someone's own Instagram 
 ## Commonly confused with
 
 - **Comment Response:** has a question-sticker UI element (black bar + question box) plus a reply. If there's a Q&A structure, it's `comment-response`, not this.
-- **Instagram Comment:** has comment-thread chrome (username, avatar, like count). If there's comment chrome, it's `instagram-comment`, not this.
+- **Comment-screenshot:** has comment-thread chrome (username, avatar, like count). If there's comment chrome, it's `comment-screenshot`, not this.
 - **Post-it:** handwriting-styled note, not IG's native typed text convention.
 
 ## What to look for as supporting signals
