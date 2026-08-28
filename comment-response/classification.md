@@ -1,35 +1,45 @@
 ---
 name: comment-response-classification
-description: How to identify whether an ad should be classified/named as the Comment Response visual format. Use when naming an ad (resolving the Visual Format taxonomy token) or auditing an existing ad's format tag. Distinct from execution-sop.md, which governs how to build one.
+description: How to identify whether an ad should be classified/named as the Comment Response visual format. Covers Instagram and TikTok, static or video. Use when naming an ad (resolving the Visual Format taxonomy token) or auditing an existing ad's format tag. Distinct from execution-sop.md, which governs how to build one.
 ---
 
 # Comment Response — Classification Guide
 
 ## Definition
 
-A static built to look like an organic story reply: an Instagram-style **question sticker** (short prompt in a black bar, a user-typed question in the white section below it) sitting over a selfie/POV/lifestyle image, **answered by the account owner in free-placed native text overlay**.
+An ad built to look like a creator **acknowledging and answering a real social comment or question** from Instagram or TikTok. The comment or question comes from native platform UI (an Instagram question sticker or comment bubble, or a TikTok comment bubble), and the whole move of the ad is "someone asked/said this, here's my reply." It can run as a **static** with a free-placed text-overlay reply, or as a **video** where the creator's on-camera response is the content.
 
 ## The two things that must both be true
 
-1. **There's a question-sticker UI element** (the black-bar-plus-white-box "Ask me anything" style sticker), not just any text.
-2. **There's a written reply in free-placed text blocks** answering that question, laid over the same image.
+1. **A real-looking comment or question from Instagram or TikTok is present as the thing being responded to** — an IG question sticker, an IG comment bubble, or a TikTok comment bubble. Not just any text: it has to read as a genuine social comment/question.
+2. **The ad acknowledges and replies to it**, in one of two ways:
+   - **Text overlay** that answers the comment/question, laid over the frame (static or video), OR
+   - **The video itself is the acknowledgement/response** — the creator pulls up, reads, or references the comment and answers it on camera.
 
-If either is missing, it's a different format.
+If there's no comment/question being answered, or the "reply" is really a generic hook/caption rather than an answer to that specific comment, it's a different format.
 
 ## Quick test
 
-Ask: *does this look like a screenshot of an Instagram Q&A sticker being answered?* If yes, Comment Response. If there's no sticker UI at all, or the "reply" is really a caption/hook rather than an answer to a posed question, it's something else.
+Ask: *does this look like a creator answering one specific comment or question from Instagram or TikTok?* If yes, Comment Response, whether the reply is written over the frame or spoken in the video. If nothing specific is being addressed and answered, it's something else.
+
+## Platform + format variants (all still Comment Response)
+
+- Instagram question sticker (AMA) answered in free-placed text overlay — the original static form.
+- An Instagram or TikTok comment bubble shown, then answered — in text overlay or on camera.
+- A video where the creator reads/references a comment and responds to it as the body of the ad (e.g. the Javvy example in this folder).
 
 ## Commonly confused with
 
-- **Instagram Comment:** also uses real-feeling social UI, but the hero element is a **screenshotted comment** (username, avatar, like count, timestamp), not a question-sticker-and-reply. If you see comment-thread chrome instead of a question box, classify as `instagram-comment`.
-- **Instagram Text Overlay:** uses IG's native caption/story text styling, but there's no question being posed and answered, it's a single native-styled statement. If there's no Q&A structure at all, it's `instagram-text-overlay`.
-- **Post-it:** also has handwritten-feeling personal text, but it's a physical sticky note/scrawl over a scene, not an app-UI question sticker.
+- **Instagram Comment:** uses a screenshotted comment as the static hero, but is not built around acknowledging and answering it. If the comment is the visual centerpiece with no reply/answer move, classify as `instagram-comment`. The moment there's a clear "here's my answer to that," it's Comment Response.
+- **Instagram Text Overlay:** native-styled text with no comment/question being posed and answered. No Q&A/reply structure means `instagram-text-overlay`.
+- **Yapper:** a straight-to-camera monologue with no specific comment being answered is `yapper`. A Comment Response video must be anchored to a specific comment/question it is replying to.
+- **Post-it:** handwritten-feeling personal text over a scene, not a platform comment/question UI.
 
 ## What to look for as supporting signals
 
-- Casual, mid-life, non-studio image (selfie, mirror selfie, POV product-in-hand)
-- Free-placed text blocks with visible gaps (not one paragraph block)
-- The reply reads verdict-first, story-driven, in first person
+- Native Instagram/TikTok comment or question UI (bubble, avatar/username, like/timestamp chrome, or question-sticker styling)
+- Casual, non-studio setting (selfie, mirror selfie, POV product-in-hand, or talking head)
+- The reply reads verdict-first, first person, answering the specific comment
+- For video: the creator explicitly references the comment ("someone asked…", "you said…", "replying to @…") before answering
 
 See `execution-sop.md` in this same folder for the full build/scripting rules.
