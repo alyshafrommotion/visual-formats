@@ -10,10 +10,10 @@ For "is this ad a Letter?" naming/classification questions, use `classification.
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/letter/`
-- This SOP lives in that folder, so the example creatives sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and study the examples first** — letter length, the salutation/sign-off treatment, and how personal vs promotional they read.
+**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — letter length, the salutation/sign-off treatment, and how personal vs promotional they read.
 
 ## What this format is
 

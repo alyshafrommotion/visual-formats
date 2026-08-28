@@ -10,10 +10,10 @@ For "is this ad a Post-it?" naming/classification questions, use `classification
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/post-it/`
-- This SOP lives in that folder, so the example creatives (images and videos) sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example creatives (images and videos) sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and study the examples first** — how much is written on the note, the handwriting style, and how the note sits against the product/scene.
+**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — how much is written on the note, the handwriting style, and how the note sits against the product/scene.
 
 ## What this format is
 

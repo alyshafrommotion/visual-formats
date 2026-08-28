@@ -7,7 +7,7 @@ description: Implementation SOP for the Comment Response ad format (AMA / questi
 
 Real, live-in-market examples of this format are saved in the brain alongside this SOP:
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/comment-response/`
+- **Reference examples:** They sit in this same folder, right next to this SOP.
 - This SOP lives inside that same `comment-response/` folder, so the example creatives are the image files sitting next to it.
 
 **Whenever this SOP is triggered or referenced, open that `comment-response/` folder and study the example images before writing.** Use them to calibrate the sticker bar, the question phrasing, the casting, and the native-text reply architecture. They are the visual source of truth for what a passing Comment Response ad looks like; the rules below are how to reproduce what they do.

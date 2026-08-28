@@ -12,10 +12,10 @@ For "is this ad an Instagram Comment?" naming/classification questions, use `cla
 
 Real, live-in-market examples of this format are saved in the brain alongside this SOP:
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/instagram-comment/`
+- **Reference examples:** They sit in this same folder, right next to this SOP.
 - This SOP lives inside that same `instagram-comment/` folder, so the example creatives are the image files sitting next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and study the example images before writing.** Calibrate the comment styling, who is speaking, and how the brand replies (or whether it replies at all) against what the examples actually do.
+**Whenever this SOP is triggered or referenced, open this folder and study the example images before writing.** Calibrate the comment styling, who is speaking, and how the brand replies (or whether it replies at all) against what the examples actually do.
 
 ## What this format is
 

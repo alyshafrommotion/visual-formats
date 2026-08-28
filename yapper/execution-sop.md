@@ -10,10 +10,10 @@ For "is this ad a Yapper?" naming/classification questions, use `classification.
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/yapper/`
-- This SOP lives in that folder, so the example creatives (videos) sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example creatives (videos) sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and watch the examples first** — the hook speed, the pacing/cut rhythm, the energy level, and how the product lands without breaking momentum.
+**Whenever this SOP is triggered or referenced, open this folder and watch the examples first** — the hook speed, the pacing/cut rhythm, the energy level, and how the product lands without breaking momentum.
 
 ## What this format is
 

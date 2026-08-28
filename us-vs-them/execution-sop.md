@@ -10,10 +10,10 @@ For "is this ad a Us Vs Them?" naming/classification questions, use `classificat
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/us-vs-them/`
-- This SOP lives in that folder, so the example creatives sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
+**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — how many rows, how the two columns are labeled, and whether "them" is a named competitor or "the old way."
 
 ## What this format is
 

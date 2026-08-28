@@ -10,10 +10,10 @@ For "is this ad a Press?" naming/classification questions, use `classification.m
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/press/`
-- This SOP lives in that folder, so the example creatives sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and study the examples first** — how logos and pull-quotes are arranged, how many, and how the product sits inside the editorial frame.
+**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — how logos and pull-quotes are arranged, how many, and how the product sits inside the editorial frame.
 
 ## What this format is
 

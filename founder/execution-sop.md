@@ -10,10 +10,10 @@ For "is this ad a Founder?" naming/classification questions, use `classification
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/founder/`
-- This SOP lives in that folder, so the example creatives (videos) sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example creatives (videos) sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and watch the examples first** — how the founder opens, how much is story vs product, the setting, and the level of polish.
+**Whenever this SOP is triggered or referenced, open this folder and watch the examples first** — how the founder opens, how much is story vs product, the setting, and the level of polish.
 
 ## What this format is
 

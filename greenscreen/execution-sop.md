@@ -9,10 +9,10 @@ For "is this ad a Greenscreen?" naming/classification questions, use `classifica
 
 ## Reference examples (look here first)
 
-- **Brain location:** `/agent/brain/2. ideation/visual-formats/greenscreen/`
-- This SOP lives in that folder, so the example videos sit next to it.
+- **Reference examples:** They sit in this same folder, right next to this SOP.
+- This SOP lives in this folder, so the example videos sit next to it.
 
-**Whenever this SOP is triggered or referenced, open that folder and watch the examples first** — what they put on screen behind the creator, how fast the screen changes, and the reaction energy.
+**Whenever this SOP is triggered or referenced, open this folder and watch the examples first** — what they put on screen behind the creator, how fast the screen changes, and the reaction energy.
 
 ## What this format is
 
