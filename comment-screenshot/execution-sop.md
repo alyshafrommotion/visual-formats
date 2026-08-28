@@ -1,12 +1,12 @@
 ---
 name: comment-screenshot-format
-description: Implementation SOP for the Instagram Comment ad format — a real (or real-seeming) social comment screenshotted and used as the hero of a static, either standing alone as social proof or answered by the brand. Use whenever executing an IG-comment ad, screenshot-comment ad, or social-proof-comment ad from a messaging angle. Governs how the ad is built and written; the messaging angle governs what it says. This format dies the instant the comment reads like marketing wrote it.
+description: Implementation SOP for the Comment Screenshot ad format — a real (or real-seeming) comment left on a social media post, screenshotted and used as the hero of a static, either standing alone as social proof or with a reply captured in the same screenshot. Use whenever executing a comment-screenshot ad, screenshot-comment ad, or social-proof-comment ad from a messaging angle. Governs how the ad is built and written; the messaging angle governs what it says. This format dies the instant the comment reads like marketing wrote it.
 ---
 
-For "is this ad an Instagram Comment?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building and writing one.
+For "is this ad a Comment Screenshot?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building and writing one.
 
 
-# Instagram Comment Format — Implementation SOP
+# Comment Screenshot Format — Implementation SOP
 
 ## Reference examples (look here first)
 
@@ -15,15 +15,15 @@ Real, live-in-market examples of this format are saved in the brain alongside th
 - **Reference examples:** They sit in this same folder, right next to this SOP.
 - This SOP lives inside that same `comment-screenshot/` folder, so the example creatives are the image files sitting next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the example images before writing.** Calibrate the comment styling, who is speaking, and how the brand replies (or whether it replies at all) against what the examples actually do.
+**Whenever this SOP is triggered or referenced, open this folder and study the example images before writing.** Calibrate the comment styling, who is speaking, and whether a reply is captured in the screenshot (as in the harrys example) or the comment stands alone, against what the examples actually do.
 
 ## What this format is
 
-A static whose hero is a screenshotted Instagram (or TikTok/Facebook) comment. The comment is the hook: a real person reacting, praising, doubting, or asking. It works because the viewer trusts a bystander's words far more than the brand's, and because a comment UI reads as found footage, not paid media.
+A static whose hero is a **screenshotted comment left on a social media post** (Instagram, TikTok, or Facebook). The comment is the hook: a real person reacting, praising, doubting, or asking. It works because the viewer trusts a bystander's words far more than the brand's, and because a comment UI reads as found footage, not paid media.
 
 Two modes, decided by the brief:
-- **Standing comment (social proof):** one strong comment (or a small stack) carries the whole ad. No brand reply needed. Best for warm audiences and testimonial angles.
-- **Comment + brand reply (objection handling):** a skeptical or curious comment on top, the brand's human reply underneath. Best for a known objection or a feature the angle wants to argue.
+- **Standing comment (social proof):** one strong comment (or a small stack) carries the whole ad, overlaid on the image doing all the work. No reply needed. Best for warm audiences and testimonial angles.
+- **Comment + reply (objection handling):** a skeptical or curious comment on top, a reply captured in the same screenshot underneath, usually the brand's verified handle (as in the harrys example). Best for a known objection or a feature the angle wants to argue.
 
 The one property to protect: **the comment must read like a person typed it in the app**, not like a review the brand curated.
 
@@ -36,13 +36,13 @@ If no VOC exists, say so and gather real language first. The comment is mined, n
 ## Anatomy — the layers
 
 ### 1 · The comment (hero)
-- Real IG comment chrome: username + avatar, the comment text, like count, "Reply", relative timestamp (2d, 1w). Keep it believable, not pristine.
+- Real social comment chrome: username + avatar, the comment text, like count, "Reply", relative timestamp (2d, 1w). Keep it believable, not pristine. Match the platform's comment UI (Instagram, TikTok, or Facebook) to wherever the comment is meant to have come from.
 - 1–2 sentences, typed register: lowercase starts, contractions, one emoji at most, the occasional dropped punctuation. If it reads grammatically perfect, it reads fake.
 - The comment does the targeting. Written in the persona's own words so the right person feels seen and the wrong person scrolls.
 - Username should feel like a real handle (a name plus numbers, a hobby handle), never a brand-adjacent name.
 
-### 2 · The brand reply (only in reply mode)
-- Verified brand handle, reply indented under the comment.
+### 2 · The reply (only in reply mode)
+- Usually the verified brand handle, reply indented under the comment and captured inside the same screenshot.
 - First line reacts to the person, not the topic. No "Great question!" No "We're so glad."
 - Human voice: the way a sharp social manager actually replies — warm, specific, a little playful, one concrete fact, no positioning phrase.
 - Brand named once. A single CTA-ish nudge is allowed here (this is the brand's turf), but it must sound like a person, not a banner.
@@ -67,7 +67,7 @@ If no VOC exists, say so and gather real language first. The comment is mined, n
 | Element | Cap |
 |---|---|
 | Comment | 1–2 sentences, ≤22 words, ≤1 emoji |
-| Brand reply | 1–3 sentences, ≤35 words, ≤1 emoji |
+| Reply | 1–3 sentences, ≤35 words, ≤1 emoji |
 | Stacked comments (if used) | ≤3, each ≤18 words |
 
 ## Build steps
