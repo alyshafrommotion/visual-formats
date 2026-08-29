@@ -1,11 +1,11 @@
 ---
-name: outdoor-ad-format
-description: Implementation SOP for the Outdoor Ad (out-of-home) visual format — the brand's creative staged as a physical billboard/wall/transit placement composited into a real-world street scene. Use whenever ideating or briefing an outdoor-ad/OOH-style ad from a messaging angle. Governs how the OOH mock is built; the messaging angle and the inner creative govern what it says.
+name: ad-in-the-wild-format
+description: Implementation SOP for the Ad in the Wild (out-of-home) visual format — the brand's creative staged as a physical billboard/wall/transit placement composited into a real-world street scene. Use whenever ideating or briefing an ad-in-the-wild/OOH-style ad from a messaging angle. Governs how the placement mock is built; the messaging angle and the inner creative govern what it says.
 ---
 
-For "is this ad an Outdoor Ad?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building one.
+For "is this ad an Ad in the Wild?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building one.
 
-# Outdoor Ad (OOH) Format — Implementation SOP
+# Ad in the Wild (OOH) Format — Implementation SOP
 
 ## Reference examples (look here first)
 
