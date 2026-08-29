@@ -27,7 +27,7 @@ Any time someone shares an inspo/ad link, a link to a piece of social content, o
 
 6. **Save + sync.** Put the file in the matching format folder, update the format's count in `index.md`, and push the library to the public GitHub mirror so brain and repo stay in sync.
 
-7. **Duplicates.** If that brand already has an example in that format, do not overwrite or delete anything. Ask which one to keep.
+7. **Multiple examples from one brand / duplicates.** If you're *replacing* an existing example, do not overwrite or delete anything — ask which one to keep. If you're intentionally keeping more than one example from the same brand in the same format (to show different variations), number them in the order they were shared: `brand-1`, `brand-2`, and so on (e.g. `spacegoods-1`, `spacegoods-2`). Never overwrite or delete an existing example to resolve a collision without an explicit instruction on which to keep.
 
 ## Notes
 

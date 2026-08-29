@@ -13,7 +13,7 @@ For "is this ad a Instagram Text Overlay?" naming/classification questions, use 
 - **Reference examples:** They sit in this same folder, right next to this SOP.
 - This SOP lives in this folder, so the example creatives sit next to it.
 
-**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — the exact IG type treatment, where the text sits, how organic the copy reads, and how stickers/overlays are used (see `loop` for an image sticker, `spacegoods-link-sticker` for a link-sticker CTA, and `spacegoods-link-and-screenshot` / `natural-cycles-screenshot` for an overlaid screenshot).
+**Whenever this SOP is triggered or referenced, open this folder and study the examples first** — the exact IG type treatment, where the text sits, how organic the copy reads, and how stickers/overlays are used (see `loop` for an image sticker, `spacegoods-2` for a link-sticker CTA, and `spacegoods-1` / `natural-cycles-screenshot` for an overlaid screenshot).
 
 ## What this format is
 
