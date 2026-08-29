@@ -37,6 +37,7 @@ Each format folder carries **two distinct documents**, use the right one for the
 | [egc](egc/) | Employee-generated content: someone who works at the brand (not the founder, not an outside creator) speaking on behalf of it, more high-level and less in the weeds than a founder ad. | no examples yet | [classification.md](egc/classification.md) | [execution-sop.md](egc/execution-sop.md) |
 | [flowchart](flowchart/) | Decision-tree static: an entry question with branching yes/no forks and arrows that route the viewer to a personalized product recommendation. | 1 image | [classification.md](flowchart/classification.md) | [execution-sop.md](flowchart/execution-sop.md) |
 | [ai-animation](ai-animation/) | A fully AI-generated animated video that tells a narrative with animated characters (often a mascot), instead of live-action footage. | 1 video | [classification.md](ai-animation/classification.md) | [execution-sop.md](ai-animation/execution-sop.md) |
+| [outdoor-ad](outdoor-ad/) | The brand's creative staged as a physical out-of-home placement (billboard, wall, transit) composited into a real-world street scene, often with a passerby for scale. | 1 image | [classification.md](outdoor-ad/classification.md) | [execution-sop.md](outdoor-ad/execution-sop.md) |
 
 ## How to use this library
 - Naming/classifying an ad: open the format's `classification.md`.
