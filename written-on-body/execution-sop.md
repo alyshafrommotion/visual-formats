@@ -1,13 +1,11 @@
 ---
-name: unexpected-text-placement-format
-description: Implementation SOP for the Unexpected Text Placement visual format — the ad's message handwritten directly on a person's body (stomach, arm, skin). Use whenever ideating or briefing a body-written ad. Governs how the creative is built; the messaging angle governs the line on the body.
+name: written-on-body-format
+description: Implementation SOP for the Written On Body visual format — the ad's message handwritten directly on a person's body (stomach, arm, skin). Use whenever ideating or briefing a body-written ad. Governs how the creative is built; the messaging angle governs the line on the body.
 ---
 
-For "is this ad an Unexpected Text Placement?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building one.
+For "is this ad a Written On Body?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building one.
 
-> **Naming note:** clearer candidate name is `written-on-body`. Flag to rename if the team agrees.
-
-# Unexpected Text Placement Format — Implementation SOP
+# Written On Body Format — Implementation SOP
 
 ## Reference examples (look here first)
 

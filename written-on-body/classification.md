@@ -1,11 +1,9 @@
 ---
-name: unexpected-text-placement-classification
-description: How to identify whether an ad should be classified/named as the Unexpected Text Placement visual format (message handwritten on a person's body). Use when naming an ad or auditing its format tag. Distinct from execution-sop.md, which governs how to build one.
+name: written-on-body-classification
+description: How to identify whether an ad should be classified/named as the Written On Body visual format (message handwritten on a person's body). Use when naming an ad or auditing its format tag. Distinct from execution-sop.md, which governs how to build one.
 ---
 
-# Unexpected Text Placement — Classification Guide
-
-> **Naming note:** this format is really "the message is handwritten on the person's body." A clearer name would be **`written-on-body`** (or `body-copy`). Kept as `unexpected-text-placement` for now; flag to rename if the team agrees.
+# Written On Body — Classification Guide
 
 ## Definition
 
@@ -19,7 +17,7 @@ A static where the ad's message is **handwritten directly on a person's body** �
 
 ## Quick test
 
-Is the headline literally written on the person's body? If yes, this format.
+Is the headline literally written on the person's body? If yes, Written On Body.
 
 ## Commonly confused with
 

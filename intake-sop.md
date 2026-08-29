@@ -23,17 +23,17 @@ Any time someone shares an inspo/ad link, a link to a piece of social content, o
    - If it is a **screenshot**, crop out all platform UI so only the creative remains (status bar, like/comment/share bars, profile header, caption, link/CTA card, next post, scrollbars). Verify the crop before saving.
    - Otherwise, **download** the creative and save it as-is.
 
-5. **Name it `brand_format`.** Combine the brand and the format folder name, separated by an underscore. Use dashes for spaces *within* a term, and underscores only to separate the brand from the format (and from a trailing number). Example: a Honeylove ad in the `matching-chart` folder becomes `honeylove_matching-chart.jpg`.
+5. **Name it `brand_format`.** Combine the brand and the format folder name with a single underscore between them. Use dashes for spaces *within* a term, and one underscore only to separate the brand from the format. Example: a Honeylove ad in the `matching-chart` folder becomes `honeylove_matching-chart.jpg`.
    - **Brand:** lowercase, dashes for spaces. Strip punctuation (`the farmer's dog` → `the-farmers-dog`). Transliterate accents to plain ascii (`grüns` → `gruns`). Spell `&` as `and` (`Mott & Bow` → `mott-and-bow`). Keep the brand's true spelling otherwise (`comfrt`, not `cmfrt`).
    - **Format:** the folder name exactly as it appears (already dash-formatted), e.g. `instagram-text-overlay`, `comment-response`, `us-vs-them`.
    - **Extension:** match the media (`.jpg`, `.jpeg`, `.png`, `.mp4`).
 
 6. **Save + sync.** Put the file in the matching format folder, then keep the counts aligned: update the format's example count in `index.md` **and** its `Examples` number in the Notion Visual Format database, and push the library to the public GitHub mirror so brain and repo stay in sync.
 
-7. **Multiple examples from one brand in the same format / duplicates.** If you're *replacing* an existing example, do not overwrite or delete anything — ask which one to keep. If you're intentionally keeping more than one example from the same brand in the same format folder, append a number with an underscore, in the order they were added: `honeylove_matching-chart_1`, `honeylove_matching-chart_2`, and so on. A single example needs no number. Never overwrite or delete an existing example to resolve a collision without an explicit instruction on which to keep.
+7. **Multiple examples from one brand in the same format / duplicates.** If you're *replacing* an existing example, do not overwrite or delete anything — ask which one to keep. If you're intentionally keeping more than one example from the same brand in the same format folder, append a number to the format with a **dash**, in the order they were added: `dose_whiteboard-1`, `dose_whiteboard-2`, and so on. A single example needs no number. Never overwrite or delete an existing example to resolve a collision without an explicit instruction on which to keep.
 
 ## Notes
 
 - Never save without step 3 approval.
 - Never delete an existing example to resolve a duplicate without an explicit instruction on which to keep.
-- Naming shorthand: **dashes = spaces within a term, underscores = separators.** So `brand_format`, or `brand_format_N` when a brand has more than one example in the same format.
+- Naming shorthand: **one underscore separates brand from format; dashes are used within a term and before the number.** So `brand_format`, or `brand_format-N` when a brand has more than one example in the same format.
