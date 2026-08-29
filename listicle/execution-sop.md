@@ -1,6 +1,6 @@
 ---
 name: listicle-execution
-description: Execution guide for the Listicle visual format — a sequential, ordered list delivered across multiple slides, one point per slide. Use whenever building or briefing a swipe-carousel listicle.
+description: Execution guide for the Listicle visual format — a list of discrete items, numbered or not, delivered either in a single frame or across multiple slides. Use whenever building or briefing a listicle ad.
 ---
 
 For "is this ad a Listicle?" naming/classification questions, use `classification.md` in this same folder instead. This document is for building one.
@@ -9,45 +9,59 @@ For "is this ad a Listicle?" naming/classification questions, use `classificatio
 
 ## What this format is
 
-A list turned into a sequence: a cover/title slide followed by one slide per point, each carrying exactly one item from the list. It works because a swipeable structure paces the read, one clean beat per slide, and because completing the swipe feels like earning the payoff (getting through the whole list).
+A list of discrete items, presented as a list. It works because a list paces the read into clean, scannable beats and because a numbered/finite set ("5 things…") signals a quick, complete payoff.
 
-The device that carries each point (a Notes card, a handwritten note, plain overlay text, a numbered callout on a photo) is chosen separately, see the matching device format (most commonly `notes-app/execution-sop.md`) for how to build that part. This guide governs the sequencing and pacing.
+It runs in **two delivery modes** — pick the one the placement and content call for:
+
+- **Single-frame list:** the whole list stacked in one static (rows, bullets, or icon+label lines). Best when the items are short and you want everything visible at a glance.
+- **Multi-slide list (carousel):** a cover/title slide followed by one item per slide. Best when each item needs room, imagery, or its own beat.
+
+The device that carries each item (plain overlay text, a Notes-app card, a handwritten note, numbered callouts, icon rows) is chosen separately — see the matching device format (often `notes-app/execution-sop.md`) for that part. This guide governs the list itself.
 
 ## Anatomy
 
-1. **Cover slide.** States the whole list's promise/title in one line (e.g. "8 things I spend money on every month as an entrepreneur").
-2. **Body slides, one point per slide.** Each slide carries exactly one numbered item, using whichever device format is paired with this one.
-3. **Consistent visual system across slides.** Same crop, same placement, same treatment, so the sequence reads as one thing, not disconnected posts.
+**Single-frame:**
+1. **A hook/title line** stating the list's promise ("SPF that doubles as a blur filter").
+2. **The list** — 3–6 items as rows/bullets/lines, each one short and self-contained.
+3. **Product/lifestyle base** the list sits beside or over.
+
+**Multi-slide:**
+1. **Cover slide** — the list's promise/title with its own hook ("8 things I spend money on every month as an entrepreneur").
+2. **Body slides, one item per slide**, using the paired device.
+3. **Consistent visual system** across slides so the sequence reads as one thing.
 
 ## Craft rules (priority order)
 
-1. **One point per slide, no exceptions.** If a slide tries to carry two ideas, split it.
-2. **Order matters.** Lead with a strong point, don't bury the best one in the middle.
-3. **Keep the device consistent slide to slide.** Whatever device is carrying each point (Notes card, handwritten note, etc.), keep its treatment the same throughout.
-4. **The cover slide has to earn the swipe.** It needs its own hook, not just a label like "list."
-5. **Match the base imagery (if used) to each point** when possible, so each frame is both something to look at and something to read.
-6. **Banned:** cramming multiple points onto one slide, an inconsistent visual system slide to slide, a cover slide with no hook.
+1. **It has to read as a list.** Discrete items, clearly separated. Numbering optional.
+2. **Order deliberately.** Lead with a strong item; don't bury the best one (applies to both modes).
+3. **One idea per item.** If an item carries two ideas, split it (in multi-slide, split into two slides).
+4. **The opener earns attention.** Single-frame: the title line hooks. Multi-slide: the cover slide needs its own hook, not just a label.
+5. **Keep the treatment consistent** — same row styling across a single frame, same device/crop across slides.
+6. **Match base imagery to items** where it helps each item be both something to look at and read.
+7. **Banned:** a mush of run-on copy that isn't actually separated into items; an inconsistent system slide to slide; an opener with no hook.
 
 ## Length caps
 
 | Element | Cap |
 |---|---|
-| Cover slide title | ≤1 sentence |
-| Each body point | 1 short line/thought (per the paired device format's own caps) |
-| Slide count | Typically 5–15; long enough to earn the swipe, short enough to finish |
+| Hook/title | ≤1 sentence |
+| Each item | 1 short line/thought |
+| Item count | Typically 3–6 (single-frame) or 5–15 (multi-slide): enough to be worth it, short enough to finish |
 
 ## Build steps
 
-1. Write the full list; pick the paired device format for how each point will visually appear.
-2. Order the points, strongest first (or building to the strongest, per the angle).
-3. Write the cover slide's hook/title.
-4. Build each body slide with the paired device, one point per slide, consistent treatment.
-5. Match base imagery to each point where relevant.
-6. Deliver: cover title, ordered point list, device format used per slide, imagery direction.
+1. Write the full list. Decide single-frame vs multi-slide from item length and placement.
+2. Pick the device format that will carry the items.
+3. Order the items (strongest first, or building to strongest per the angle).
+4. Write the hook/title (single-frame) or cover slide (multi-slide).
+5. Lay out the list — stacked rows in one frame, or one item per slide with consistent treatment.
+6. Match base imagery to items where relevant.
+7. Deliver: mode used, hook/title, ordered item list, device format, imagery direction.
 
 ## QA checklist
-- [ ] One point per slide throughout
-- [ ] Points ordered deliberately, strongest not buried
-- [ ] Visual treatment consistent slide to slide
-- [ ] Cover slide has its own hook
+- [ ] Reads as a clear list of discrete items
+- [ ] Items ordered deliberately, strongest not buried
+- [ ] One idea per item
+- [ ] Opener (title line or cover slide) has its own hook
+- [ ] Treatment consistent across the frame or the slides
 - [ ] Paired device format's own craft rules also followed
