@@ -18,7 +18,7 @@ Each format folder carries **two distinct documents**, use the right one for the
 
 | Format | What it is | Examples | Classification | Execution |
 |---|---|---|---|---|
-| [greenscreen](greenscreen/) | Creator greenscreened in front of a screenshot, article, product page, review, or chart they react to and narrate. | 3 videos | [classification.md](greenscreen/classification.md) | [execution-sop.md](greenscreen/execution-sop.md) |
+| [greenscreen](greenscreen/) | Creator composited in front of a full-frame background screen that relates to what they're saying; the hook must open on the greenscreen. Always video; usually the anchor format (can pair with a secondary like unboxing). | 4 videos | [classification.md](greenscreen/classification.md) | [execution-sop.md](greenscreen/execution-sop.md) |
 | [comment-response](comment-response/) | An Instagram or TikTok comment-response (question) sticker answered by a real-seeming person, as free-placed text overlay or as the video's on-camera response. | 9 images, 2 videos | [classification.md](comment-response/classification.md) | [execution-sop.md](comment-response/execution-sop.md) |
 | [comment-screenshot](comment-screenshot/) | A screenshotted comment left on a social post used as the hero of a static, standing alone or with a reply captured in the screenshot. | 3 images | [classification.md](comment-screenshot/classification.md) | [execution-sop.md](comment-screenshot/execution-sop.md) |
 | [feature-benefit-pointout](feature-benefit-pointout/) | A hero product with 3-6 call-out lines/arrows pointing at specific features, each translated into a benefit. | 5 images | [classification.md](feature-benefit-pointout/classification.md) | [execution-sop.md](feature-benefit-pointout/execution-sop.md) |
@@ -32,6 +32,7 @@ Each format folder carries **two distinct documents**, use the right one for the
 | [face-peeking-into-bottom-of-frame](face-peeking-into-bottom-of-frame/) | Text-led static where the creator's oversized, cut-off face pokes up from the bottom edge of the frame. | 1 image | [classification.md](face-peeking-into-bottom-of-frame/classification.md) | [execution-sop.md](face-peeking-into-bottom-of-frame/execution-sop.md) |
 | [notes-app](notes-app/) | A screenshot styled as a recognizable Apple Notes card, used as the device carrying a note, tip, or one point of a list. A device, not a structure, often paired with `listicle`. | 1 image | [classification.md](notes-app/classification.md) | [execution-sop.md](notes-app/execution-sop.md) |
 | [listicle](listicle/) | Content structured as a sequential, ordered list across multiple slides, one point per slide. A structure, not a device, usually paired with `notes-app` or another device format. | 1 image | [classification.md](listicle/classification.md) | [execution-sop.md](listicle/execution-sop.md) |
+| [egc](egc/) | Employee-generated content: someone who works at the brand (not the founder, not an outside creator) speaking on behalf of it, more high-level and less in the weeds than a founder ad. | no examples yet | [classification.md](egc/classification.md) | [execution-sop.md](egc/execution-sop.md) |
 
 ## How to use this library
 - Naming/classifying an ad: open the format's `classification.md`.

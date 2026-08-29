@@ -1,39 +1,45 @@
 ---
 name: greenscreen-classification
-description: How to identify whether an ad should be classified/named as the Greenscreen visual format. Use when naming an ad (resolving the Visual Format taxonomy token) or auditing an existing ad's format tag. Distinct from execution-sop.md, which governs how to build one.
+description: How to identify whether an ad should be classified/named as the Greenscreen visual format. Greenscreen ads are always videos, and the hook must open on the greenscreen. Use when naming an ad (resolving the Visual Format taxonomy token) or auditing an existing ad's format tag. Distinct from execution-sop.md, which governs how to build one.
 ---
 
 # Greenscreen — Classification Guide
 
-Use this when you need to decide **whether a given ad is a Greenscreen** so you can assign the correct Visual Format value when naming it (or auditing/re-tagging an existing ad).
-
 ## Definition
 
-A **Greenscreen** ad has a creator placed (usually cut-out/greenscreened) in front of a full-frame piece of external "evidence" — a screenshot, article, product page, review, chart, comment, or competitor's site — and the creator **reacts to and narrates that evidence in real time** while it stays visible on screen.
+A **video** where a creator is composited (greenscreened) in front of a full-frame background "screen" (an image, a video, a screenshot, a webpage, a product, or a scene), and the **hook opens on that greenscreen**. The greenscreen is the anchor of the format: there is a relationship between what is on the screen behind them and what the creator is saying.
 
-## The three things that must all be true
+Greenscreen is almost always the **anchor (primary)** format and frequently pairs with a **secondary** format via the dual-format tagging rule. Example: the Lyka pet food example in this folder is a greenscreen ad (anchor) that is also an unboxing (secondary), so it would be tagged greenscreen + unboxing.
 
-1. **There is real, external evidence on screen.** A screenshot, article, page, chart, review, DM, or similar — not the brand's own product shot, not a lifestyle scene, not plain text overlay with no underlying "document."
-2. **The creator is composited in front of it**, not standing beside a physical object or in a normal environment. The evidence fills the frame behind them.
-3. **The creator reacts to and points at the evidence** ("wait, look at this") rather than just talking to camera with the evidence as decoration. The screen is doing persuasive work, not just filling background space.
+## The things that must all be true
 
-If any of these three is missing, it is probably a different format (see below).
+1. **It's a video.** Greenscreen is never a static.
+2. **The hook opens on the greenscreen.** The composited background is there from the first beat and anchors the ad, the same way the comment sticker anchors a comment-response ad. If the greenscreen only shows up later, it isn't the anchor and it isn't this format.
+3. **The creator is composited in front of a full-frame background.**
+4. **There is a relationship between the background and what the creator is saying.** They can point at it or reference it directly, or the background can simply add a context layer to what they are saying. It does not have to be acknowledged out loud.
+
+## The relationship, two ways
+
+- **Direct (react / reference):** the background is evidence (a screenshot, article, review, chart, or page) and the creator reacts to and points at it ("wait, look at this").
+- **Context layer:** the background reinforces or adds to what they are saying without being acknowledged. Example: the Native Pet example, where she talks about probiotic chews with dog chews on the screen behind her but doesn't immediately call them out. The screen adds a layer rather than being reacted to.
+
+Both are Greenscreen, as long as the hook opens on the greenscreen and the background relates to the talk.
 
 ## Quick test
 
-Ask: *if you muted the audio and just watched, would you say "this person is showing me proof of something on their screen and reacting to it"?* If yes, it's Greenscreen. If the answer is "this person is just talking" or "this is a product demo," it's not.
+Mute it. In the first beat, do you see a person composited in front of a full-frame screen that relates to what they're saying? If yes, Greenscreen. If the greenscreen isn't there in the hook, or there's no relationship between the screen and the talk, it's something else.
 
 ## Commonly confused with
 
-- **Comment-screenshot format:** also features a screenshot (a comment/comment thread), but the creator is not necessarily greenscreened reacting to it live, it's often the comment itself as the hero with less live reaction framing. If the comment screenshot is the entire visual and there's no reacting creator overlaid, classify as `comment-screenshot`, not Greenscreen.
-- **Comment-response format:** built to look like a native story reply (a question box over a selfie/lifestyle image, answered via text overlay) — no creator reacting to *external* evidence, classify as `comment-response`.
-- **Yapper:** creator talking straight down the barrel of the camera with no on-screen evidence to react to, that's `yapper`, not Greenscreen. If a yapper-style ad cuts to a screenshot occasionally but spends most of its runtime on unmediated talking-head, judge by which one carries the persuasive weight.
-- **Founder:** founder-to-camera storytelling. If the founder is greenscreened reacting to real evidence (reviews, press, data), it can still be Greenscreen; if they're just telling their story to camera with no on-screen evidence, it's `founder`.
+- **Yapper:** a talking-head monologue with no greenscreen behind them. If there's no composited background anchoring the hook, it's `yapper`, not Greenscreen.
+- **Comment-screenshot:** a screenshotted comment used as the static hero, with no creator composited in front reacting to it. If it's a static comment doing the work, it's `comment-screenshot`.
+- **Comment-response:** a native story-reply look (a question sticker over a selfie/lifestyle image, answered by text or on camera), not a creator composited over a full-frame screen. That's `comment-response`.
+- **Founder:** founder-to-camera storytelling. A founder can be greenscreened (then it's Greenscreen too, likely dual-tagged), but a founder just telling their story with no greenscreen is `founder`.
 
-## What to look for as supporting signals (not required, but common)
+## What to look for as supporting signals (not required)
 
-- Fast cuts as the evidence changes (new claim = new screenshot)
-- Highlighting, circling, or zooming on specific lines/sections of the evidence
-- Casual, low-effort visual treatment (this is often intentional in the format, not a production shortcut)
+- Fast cuts as the background changes (new point, new screen), common in the react/reference version
+- Highlighting, circling, or zooming on a specific part of the screen (react version)
+- Casual, low-effort visual treatment: often intentional (the casual-disarm / effort-mismatch mechanic), not a production shortcut
 
-See `execution-sop.md` in this same folder for the full build/scripting rules if you're producing one rather than classifying one.
+See `execution-sop.md` in this same folder for the full build/scripting rules.
