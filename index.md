@@ -12,7 +12,7 @@ This is the shared, promoted version of the Visual Formats library. All 13 forma
 
 **On 2026-08-28, `notes-app-listicle-over-lifestyle` was split into two separate atomic formats**, `notes-app` (the device: a recognizable Notes-app screenshot) and `listicle` (the structure: a sequential one-point-per-slide list), since they're independently reusable and an ad can use either alone or both together.
 
-Formats added new after that promotion (not from the personal copy): `egc`, `flowchart`, and `ai-animation`.
+Formats added new after that promotion (not from the personal copy): `egc`, `flowchart`, `ai-animation`, `outdoor-ad`, and `matching-chart`.
 
 Each format folder carries **two distinct documents**, use the right one for the job:
 - **`classification.md`** — for naming an ad or auditing an existing one: how to tell whether an ad should be tagged as this format.
@@ -36,6 +36,7 @@ Each format folder carries **two distinct documents**, use the right one for the
 | [listicle](listicle/) | Content structured as a sequential, ordered list across multiple slides, one point per slide. A structure, not a device, usually paired with `notes-app` or another device format. | no examples yet | [classification.md](listicle/classification.md) | [execution-sop.md](listicle/execution-sop.md) |
 | [egc](egc/) | Employee-generated content: someone who works at the brand (not the founder, not an outside creator) speaking on behalf of it, more high-level and less in the weeds than a founder ad. | no examples yet | [classification.md](egc/classification.md) | [execution-sop.md](egc/execution-sop.md) |
 | [flowchart](flowchart/) | Decision-tree static: an entry question with branching yes/no forks and arrows that route the viewer to a personalized product recommendation. | 1 image | [classification.md](flowchart/classification.md) | [execution-sop.md](flowchart/execution-sop.md) |
+| [matching-chart](matching-chart/) | A static table that maps each self-select category (body type, skin type, goal, etc.) straight across to a recommended product or variant. A lookup, not a branching flowchart or an ordered listicle. | 1 image | [classification.md](matching-chart/classification.md) | [execution-sop.md](matching-chart/execution-sop.md) |
 | [ai-animation](ai-animation/) | A fully AI-generated animated video that tells a narrative with animated characters (often a mascot), instead of live-action footage. | 1 video | [classification.md](ai-animation/classification.md) | [execution-sop.md](ai-animation/execution-sop.md) |
 | [outdoor-ad](outdoor-ad/) | The brand's creative staged as a physical out-of-home placement (billboard, wall, transit) composited into a real-world street scene, often with a passerby for scale. | 1 image | [classification.md](outdoor-ad/classification.md) | [execution-sop.md](outdoor-ad/execution-sop.md) |
 
