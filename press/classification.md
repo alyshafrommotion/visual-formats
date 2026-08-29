@@ -7,11 +7,18 @@ description: How to identify whether an ad should be classified/named as the Pre
 
 ## Definition
 
-An ad that borrows the visual language of press/editorial coverage: **real publication logos, an editorial-styled pull-quote, and/or "as seen in"/awards credibility**, arranged in a magazine-like layout.
+An ad that borrows the visual language of press/editorial coverage: publication-style logos, an editorial-styled pull-quote, and/or "as seen in"/awards credibility, arranged in a magazine-like layout.
 
-## The two things that must both be true
+## Two modes (both are Press)
 
-1. **There's real, attributed third-party coverage on screen**: a named publication's logo, a quoted line with attribution, or a named award/rating, not a generic customer testimonial.
+1. **Real press (best case):** genuine coverage from a real, named publication, with a real, attributed quote/award/rating. Strongest and safest.
+2. **Press-styled (the "looks like press" build):** the editorial look carries the message, but the source is a **generic, clearly-not-a-real outlet** (an invented/generic title and logo), not a real publication. It's a styling device, not real coverage.
+
+**Hard line:** never put a *real* publication's name or logo on a quote or endorsement it didn't actually give. A real outlet on screen means real, attributable coverage. If it isn't real coverage, use a generic/fictional source and keep any product claim inside it honest and substantiable.
+
+## The things that must be true
+
+1. **A press/editorial source is doing the persuading on screen** — a publication-style logo, an attributed pull-quote, or a named award/rating — whether real (mode 1) or a generic stand-in (mode 2), not an ordinary customer testimonial.
 2. **The layout reads editorial**, serif type, clean grid, magazine-like spacing, not a standard promotional banner.
 
 ## Quick test
