@@ -215,3 +215,7 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=lemme_vf=feature-benefit-callout.jpg` | lemme | - | feature-benefit-callout |
 | `b=olipop_vf=asmr.mp4` | olipop | - | asmr |
 | `b=olipop_vf=meme.jpeg` | olipop | - | meme |
+| `b=mejuri_vf=product-grid.jpeg` | mejuri | - | product-grid |
+| `b=made-in_vf=product-grid.jpg` | made-in | - | product-grid |
+| `b=made-in_vf=bento-grid.jpg` | made-in | - | bento-grid |
+| `b=vuori_vf=bento-grid.jpeg` | vuori | - | bento-grid |

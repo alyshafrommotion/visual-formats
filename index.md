@@ -56,7 +56,7 @@ Rows below are alphabetized by format token.
 ## Pending format folders (stubs, not yet documented)
 These folders exist in the library but have no `classification.md` or `execution-sop.md` yet, so they are not full rows above. Promote each with its two docs (and example media) before it becomes a live, taggable format:
 
-`ai-chat`, `annotation`, `demo`, `explainer`, `feature-benefit-callout`, `grid-swap`, `how-to`, `meme`, `news`, `nostalgia`, `podcast`, `reaction`, `stitch`, `street-interview`, `time-lapse`, `trend`, `venn-diagram`, `vsl`, `web-search`
+`ai-chat`, `annotation`, `bento-grid`, `demo`, `explainer`, `feature-benefit-callout`, `how-to`, `meme`, `news`, `nostalgia`, `podcast`, `product-grid`, `reaction`, `stitch`, `street-interview`, `time-lapse`, `trend`, `venn-diagram`, `vsl`, `web-search`
 
 ## How to use this library
 - Naming/classifying an ad: open the format's `classification.md`.
