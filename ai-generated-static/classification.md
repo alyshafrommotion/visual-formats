@@ -29,6 +29,8 @@ Does it look like it came out of an image generator? If yes, AI Generated Static
 
 AI-warped lettering, extra fingers/paws, impossible textures, hyper-glossy generated scene, copy fused into the image.
 
-Example in this folder: BarkBox AI birthday-cake image with warped lettering and copy baked in.
+Example in the files folder:
+
+- BarkBox AI birthday-cake image with warped lettering and copy baked in
 
 See `execution-sop.md` for the build rules.

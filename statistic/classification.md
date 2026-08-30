@@ -29,6 +29,8 @@ Strip the copy away — is the thing you remember a big number? If yes, Statisti
 
 "94% saw…", "More than 2 million bottles sold", "#1 selling", ring/donut charts, oversized percentage type over a model or product.
 
-Example in this folder: Divi's 94% / 90% / 82% result rings over a hair shot.
+Example in the files folder:
+
+- Divi's 94% / 90% / 82% result rings over a hair shot
 
 See `execution-sop.md` for the build rules.

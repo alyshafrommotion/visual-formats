@@ -29,6 +29,8 @@ Does it present itself as evidence from a study, with more than one result and a
 
 "Clinically Studied, Visibly Proven"; stacked result panels each with an image and "X% saw … in 12 weeks†"; a small study-method footnote.
 
-Example in this folder: Act+Acre "Clinically Studied, Visibly Proven" with three image-backed result panels.
+Example in the files folder:
+
+- Act+Acre "Clinically Studied, Visibly Proven" with three image-backed result panels
 
 See `execution-sop.md` for the build rules.

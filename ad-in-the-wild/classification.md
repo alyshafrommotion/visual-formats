@@ -31,6 +31,11 @@ Does it look like a photo of the brand's ad living on a real billboard/wall/post
 - Street furniture, sidewalk, sky, buildings; a pedestrian or vehicle for scale
 - Often AI-composited or mocked-up rather than a genuine photographed placement
 
-Examples in this folder: Honeylove CloudEmbrace streetside billboard; ARMRA "Have you pooped yet?" highway billboard; Juniper "Don't weigh in on my weight" transit poster; Bobbie "trusted by parents… 700K of them" building wall-scape.
+Examples in the files folder:
+
+- Honeylove CloudEmbrace streetside billboard
+- ARMRA "Have you pooped yet?" highway billboard
+- Juniper "Don't weigh in on my weight" transit poster
+- Bobbie "trusted by parents… 700K of them" building wall-scape
 
 See `execution-sop.md` in this same folder for the full build rules.

@@ -1,0 +1,29 @@
+{
+  "successful": true,
+  "status": 200,
+  "ok": true,
+  "url": "https://api.notion.com/v1/pages",
+  "headers": {
+    "date": "Sun, 30 Aug 2026 05:54:24 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "941",
+    "connection": "keep-alive",
+    "cf-ray": "a3318a660b4f17a1-YYZ",
+    "cf-cache-status": "DYNAMIC",
+    "etag": "W/\"3ad-hcifbAviFAK1BGpHQViejb1rB88\"",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "content-security-policy": "default-src 'none'",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-notion-request-id": "e6a2e5a1-3c30-440c-95d9-1d0d1ffad784",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0"
+  },
+  "body": "{\"object\":\"page\",\"id\":\"3cc246a6-b0e0-8168-b551-cd0537a60c6a\",\"created_time\":\"2026-08-30T05:54:00.000Z\",\"last_edited_time\":\"2026-08-30T05:54:00.000Z\",\"created_by\":{\"object\":\"user\",\"id\":\"3c7246a6-b0e0-812f-a5dc-0027a6a0d906\"},\"last_edited_by\":{\"object\":\"user\",\"id\":\"3c7246a6-b0e0-812f-a5dc-0027a6a0d906\"},\"cover\":null,\"icon\":null,\"parent\":{\"type\":\"database_id\",\"database_id\":\"3cc246a6-b0e0-805d-924d-f405595c8b94\"},\"in_trash\":false,\"is_archived\":false,\"is_locked\":false,\"properties\":{\"Inspo\":{\"id\":\"buIo\",\"type\":\"url\",\"url\":null},\"Name\":{\"id\":\"title\",\"type\":\"title\",\"title\":[{\"type\":\"text\",\"text\":{\"content\":\"billie\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"billie\",\"href\":null}]}},\"url\":\"https://app.notion.com/p/billie-3cc246a6b0e08168b551cd0537a60c6a\",\"public_url\":null,\"archived\":false,\"request_id\":\"e6a2e5a1-3c30-440c-95d9-1d0d1ffad784\"}",
+  "bodyTruncated": false
+}

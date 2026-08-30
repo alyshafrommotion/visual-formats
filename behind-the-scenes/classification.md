@@ -29,6 +29,8 @@ Is the ad's power coming from seeing how it's actually made? If yes, Behind The 
 
 Manufacturing line, beakers/lab glassware, blueprint or spec overlays, archival R&D clips, "what makes X different", "it took years with our chemists".
 
-Example in this folder: Ilia "What makes skin tint different?" — lab, fill line, and chemist voiceover.
+Example in the files folder:
+
+- Ilia "What makes skin tint different?" — lab, fill line, and chemist voiceover
 
 See `execution-sop.md` for the build rules.

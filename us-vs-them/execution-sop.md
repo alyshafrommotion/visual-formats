@@ -19,6 +19,8 @@ For "is this ad a Us Vs Them?" naming/classification questions, use `classificat
 
 A two-column comparison: the brand on one side with green checks, the alternative (a named competitor, a category, or "the old way") on the other with red X's. It works because it makes the decision feel binary and pre-frames the buyer to the brand's criteria — you win by choosing which rows the comparison is fought on.
 
+Only build this format when the side-by-side comparison is the intended **main focus** of the creative. If the versus is incidental or only implied (a competitor merely in frame or name-checked, a one-sided checklist that beats "them" only by implication), it is not an Us Vs Them. That is a different format carrying a comparison/switching **angle**. See `classification.md`.
+
 Strongest for **differentiation, switching/replacement angles, category reframes, and skeptical/comparison-shopping audiences.** Requires **true, defensible contrasts** — this is the highest-scrutiny format for claims.
 
 The one property to protect: **every row must be true and fair for both columns.** An overreaching or dishonest comparison is a legal risk and a trust-killer; screenshots of a rigged table circulate.
@@ -56,6 +58,19 @@ If the contrasts aren't verifiable for both sides, stop and verify. Never invent
 7. **Naming a competitor is a claims decision,** not a creative one — only with legal/claim-flag clearance. Otherwise use "the old way"/category.
 8. **Banned:** unverifiable "them" X's, invented competitor weaknesses, "designed to," "seamless," absolutes, and rows the brand doesn't actually win.
 
+## Advanced move: compare the outcome, not just the product
+
+Most Us Vs Them tables compare the two *products* (or two checklists). The strongest version also compares what each choice *does to the buyer* by putting the outcome on screen, not just claiming it.
+
+- **Show the end state visually on both sides.** Buoy's "How do you treat constipation?" ad (`b=buoy_vf=us-vs-them.jpg` in the shared files store) pairs "take a laxative" with a dull, strained gut and Buoy with a vibrant, healthy one. The viewer grasps the difference pre-verbally, before reading a single row, and the anatomical imagery doubles as a pattern-interrupt scroll-stopper.
+- **Why it works:** a normal table argues efficacy in words or checkmarks; showing the outcome turns the efficacy claim into visible proof, so it reads faster and is far more visually intriguing than a plain two-column list.
+- **Where it travels:** any category where the product visibly changes something (gut, skin, scalp, hair, teeth, home surface). Keep it honest, if the outcome can't be shown truthfully, stay on the checklist and never fake a result.
+
+## Sharpen the frame with a plain verb contrast
+
+- **Let the headline verbs carry the reframe.** Buoy's "*Make* it happen" (laxative) vs "*Help* it happen" (Buoy) flips the category framing from forcing your body to working with it, in two words. Short, plainly different, parallel verbs land the contrast faster than a long criteria headline.
+- **Keep both sides parallel and equally short** so the single swapped word does the work.
+
 ## Length caps
 
 | Element | Cap |
@@ -84,3 +99,5 @@ If the contrasts aren't verifiable for both sides, stop and verify. Never invent
 - [ ] "Them" choice (named vs old way) matches claim-flag clearance
 - [ ] Every claim/number validated; no absolutes; no invented weaknesses
 - [ ] Table legible at thumb size; verdict lands
+- [ ] Considered showing the outcome/end state visually on both sides, not just the products (where honest)
+- [ ] Headline verbs/labels are parallel so the single swapped word carries the reframe

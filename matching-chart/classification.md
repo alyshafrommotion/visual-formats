@@ -32,6 +32,8 @@ Do you scan a table for your category and read across to your recommended pick, 
 - A column of categories (often with little icons/illustrations) aligned to a column of products
 - Arrows or aligned rows connecting each category to its match; often implies a shop action
 
-Example in this folder: the Honeylove "What shapewear is best for you?" ad maps body types (Rectangle, Pear, Hourglass, Inverted Triangle, Apple) each to a specific style.
+Example in the files folder:
+
+- the Honeylove "What shapewear is best for you?" ad maps body types (Rectangle, Pear, Hourglass, Inverted Triangle, Apple) each to a specific style
 
 See `execution-sop.md` in this same folder for the full build rules.

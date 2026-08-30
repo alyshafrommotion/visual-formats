@@ -29,6 +29,8 @@ Is it a top-down styled arrangement of the product laid flat? If yes, Flatlay.
 
 Overhead angle, fan/grid arrangement, a color or variant range shown together, clean neutral background, minimal copy ("Get one in every color").
 
-Example in this folder: J.Crew shorts fanned out in every color, shot from directly above.
+Example in the files folder:
+
+- J.Crew shorts fanned out in every color, shot from directly above
 
 See `execution-sop.md` for the build rules.

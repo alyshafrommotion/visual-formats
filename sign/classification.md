@@ -29,6 +29,8 @@ Is a person holding up a handmade sign that says the thing? If yes, Sign.
 
 Person holding cardboard/poster, handwritten headline, street or store setting, product composited beside them.
 
-Example in this folder: Magic Mind "#1 Selling Shot at Sprouts" held sign in a street scene.
+Example in the files folder:
+
+- Magic Mind "#1 Selling Shot at Sprouts" held sign in a street scene
 
 See `execution-sop.md` for the build rules.

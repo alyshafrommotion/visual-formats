@@ -31,6 +31,8 @@ Do you follow arrows through forks to land on a personalized pick? If yes, Flowc
 - Yes/No labels on the branches, arrows connecting steps
 - Each terminal node is a product/variant or a clear next step, ending in a CTA
 
-Example in this folder: the Honeylove "Is this your boob shape?" ad branches through yes/no questions to the CloudEmbrace recommendation.
+Example in the files folder:
+
+- the Honeylove "Is this your boob shape?" ad branches through yes/no questions to the CloudEmbrace recommendation
 
 See `execution-sop.md` in this same folder for the full build rules.

@@ -1,0 +1,29 @@
+{
+  "successful": true,
+  "status": 200,
+  "ok": true,
+  "url": "https://api.notion.com/v1/pages",
+  "headers": {
+    "date": "Sun, 30 Aug 2026 05:54:49 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "941",
+    "connection": "keep-alive",
+    "cf-ray": "a3318b02cb38ab42-YYZ",
+    "cf-cache-status": "DYNAMIC",
+    "etag": "W/\"3ad-uQ7M872WazCFz7Flhn8CoxCGgYQ\"",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "vary": "Accept-Encoding",
+    "content-security-policy": "default-src 'none'",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-content-type-options": "nosniff",
+    "x-dns-prefetch-control": "off",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-notion-request-id": "1e9e275d-a451-4106-a5e2-869a21cf73f0",
+    "x-permitted-cross-domain-policies": "none",
+    "x-xss-protection": "0"
+  },
+  "body": "{\"object\":\"page\",\"id\":\"3cc246a6-b0e0-81ee-af66-dd7bdff989e1\",\"created_time\":\"2026-08-30T05:54:00.000Z\",\"last_edited_time\":\"2026-08-30T05:54:00.000Z\",\"created_by\":{\"object\":\"user\",\"id\":\"3c7246a6-b0e0-812f-a5dc-0027a6a0d906\"},\"last_edited_by\":{\"object\":\"user\",\"id\":\"3c7246a6-b0e0-812f-a5dc-0027a6a0d906\"},\"cover\":null,\"icon\":null,\"parent\":{\"type\":\"database_id\",\"database_id\":\"3cc246a6-b0e0-805d-924d-f405595c8b94\"},\"in_trash\":false,\"is_archived\":false,\"is_locked\":false,\"properties\":{\"Inspo\":{\"id\":\"buIo\",\"type\":\"url\",\"url\":null},\"Name\":{\"id\":\"title\",\"type\":\"title\",\"title\":[{\"type\":\"text\",\"text\":{\"content\":\"flakes\",\"link\":null},\"annotations\":{\"bold\":false,\"italic\":false,\"strikethrough\":false,\"underline\":false,\"code\":false,\"color\":\"default\"},\"plain_text\":\"flakes\",\"href\":null}]}},\"url\":\"https://app.notion.com/p/flakes-3cc246a6b0e081eeaf66dd7bdff989e1\",\"public_url\":null,\"archived\":false,\"request_id\":\"1e9e275d-a451-4106-a5e2-869a21cf73f0\"}",
+  "bodyTruncated": false
+}

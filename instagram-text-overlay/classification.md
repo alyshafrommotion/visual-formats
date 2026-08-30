@@ -21,7 +21,7 @@ It can also use native story elements: a **link sticker**, an **image sticker**,
 
 - A **link sticker** (the native IG story link CTA)
 - An **image sticker**
-- **Overlaid screenshots or images** on the story — you can drop a screenshot or photo on top and it's still this format, as long as native IG text is doing the talking (see the Space Goods and Natural Cycles examples in the folder)
+- **Overlaid screenshots or images** on the story — you can drop a screenshot or photo on top and it's still this format, as long as native IG text is doing the talking (see the Space Goods and Natural Cycles examples in the files folder)
 
 ## Quick test
 

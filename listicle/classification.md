@@ -34,6 +34,8 @@ Is the content a list of separate items I read through? If yes, Listicle.
 - Single-frame: a stack of bulleted/numbered lines or icon+label rows.
 - Multi-slide: a cover/title slide, consistent treatment across slides, one item per slide.
 
-Example in this folder: Merit "SPF that doubles as a blur filter" — a single-frame list of four benefit rows (Blurs pores, Evens skin tone, Shields with mineral SPF, Feels like nothing) beside the product, none pointing at it.
+Example in the files folder:
+
+- Merit "SPF that doubles as a blur filter" — a single-frame list of four benefit rows (Blurs pores, Evens skin tone, Shields with mineral SPF, Feels like nothing) beside the product, none pointing at it
 
 See `execution-sop.md` in this same folder for the full build rules.

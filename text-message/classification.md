@@ -29,6 +29,9 @@ Is the ad a phone text thread you "read over their shoulder"? If yes, Text Messa
 
 Blue/grey iMessage bubbles, contact name header, a payment/Venmo-style request, "just FYI this brand…", a photo shared in-thread.
 
-Examples in this folder: Atlas Coffee Club "$17 Request" stolen-coffee bit; Grüns "Elma" recommending methylated vitamins.
+Examples in the files folder:
+
+- Atlas Coffee Club "$17 Request" stolen-coffee bit
+- Grüns "Elma" recommending methylated vitamins
 
 See `execution-sop.md` for the build rules.

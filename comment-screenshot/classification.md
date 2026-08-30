@@ -7,7 +7,7 @@ description: How to identify whether an ad should be classified/named as the Com
 
 ## Definition
 
-A static whose hero element is a **screenshotted comment left on a social media post** (Instagram, TikTok, or Facebook comment UI: username, avatar, comment text, like count, "Reply", relative timestamp). The screenshotted comment is the hook. It can **stand alone**, the comment itself doing all the work overlaid on the image, or it can include a **reply captured inside the same screenshot** (like the harrys example in this folder). A response is not required.
+A static whose hero element is a **screenshotted comment left on a social media post** (Instagram, TikTok, or Facebook comment UI: username, avatar, comment text, like count, "Reply", relative timestamp). The screenshotted comment is the hook. It can **stand alone**, the comment itself doing all the work overlaid on the image, or it can include a **reply captured inside the same screenshot** (like the harrys example in the files folder). A response is not required.
 
 ## The one thing that must be true
 

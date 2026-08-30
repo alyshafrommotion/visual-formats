@@ -29,6 +29,8 @@ If you muted it, would it lose most of its appeal? If yes (the sound is the hook
 
 Close-up hands, crisp clinks/ratchets/peels/pours, install or prep or assembly, no talking, clean quiet setting.
 
-Example in this folder: Rough Country trifold bed-cover install with amplified clunks, ratchets, and snaps.
+Example in the files folder:
+
+- Rough Country trifold bed-cover install with amplified clunks, ratchets, and snaps
 
 See `execution-sop.md` for the build rules.

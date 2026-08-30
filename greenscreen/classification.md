@@ -9,7 +9,7 @@ description: How to identify whether an ad should be classified/named as the Gre
 
 A **video** where a creator is composited (greenscreened) in front of a full-frame background "screen" (an image, a video, a screenshot, a webpage, a product, or a scene), and the **hook opens on that greenscreen**. The greenscreen is the anchor of the format: there is a relationship between what is on the screen behind them and what the creator is saying.
 
-Greenscreen is almost always the **anchor (primary)** format and frequently pairs with a **secondary** format via the dual-format tagging rule. Example: the Lyka pet food example in this folder is a greenscreen ad (anchor) that is also an unboxing (secondary), so it would be tagged greenscreen + unboxing.
+Greenscreen is almost always the **anchor (primary)** format and frequently pairs with a **secondary** format via the dual-format tagging rule. Example: the Lyka pet food example in the files folder is a greenscreen ad (anchor) that is also an unboxing (secondary), so it would be tagged greenscreen + unboxing.
 
 ## The things that must all be true
 

@@ -32,6 +32,8 @@ Is the whole thing an AI-generated animated story, with animated characters stan
 - VO narration over an upbeat track
 - A clear story arc ending in a product CTA
 
-Example in this folder: the Honeylove "invisible bra" ad — an animated woman plus a smiling animated bra mascot moving through a problem → discovery → lifestyle arc to the CrossOver Bra CTA.
+Example in the files folder:
+
+- the Honeylove "invisible bra" ad — an animated woman plus a smiling animated bra mascot moving through a problem → discovery → lifestyle arc to the CrossOver Bra CTA
 
 See `execution-sop.md` in this same folder for the full build rules.

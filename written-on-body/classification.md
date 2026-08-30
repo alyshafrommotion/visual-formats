@@ -29,6 +29,9 @@ Is the headline literally written on the person's body? If yes, Written On Body.
 
 Marker handwriting on a stomach or arm, mirror selfie or limb shot, product nearby.
 
-Examples in this folder: Grüns "Protein without gut support = WASTE" on the stomach; Happy Mammoth "My 'impossible weight' is GONE." down the arm.
+Examples in the files folder:
+
+- Grüns "Protein without gut support = WASTE" on the stomach
+- Happy Mammoth "My 'impossible weight' is GONE." down the arm
 
 See `execution-sop.md` for the build rules.

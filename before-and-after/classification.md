@@ -29,6 +29,12 @@ Is the ad built around one before/after transformation of the same subject? If y
 
 "Before" / "After" labels, "6 months" / "90 days," the same face/scalp/skin shown twice, a "results may vary" footnote, often a supporting stat or review.
 
-Examples in this folder: Nutrafol Men (before / 6 months scalp), Moon Juice SuperHair (before / 90 days), Manual (before / after scalp), Primally Pure (acne before / after), Prose (before/after hair strands, video).
+Examples in the files folder:
+
+- Nutrafol Men (before / 6 months scalp)
+- Moon Juice SuperHair (before / 90 days)
+- Manual (before / after scalp)
+- Primally Pure (acne before / after)
+- Prose (before/after hair strands, video)
 
 See `execution-sop.md` for the build rules.

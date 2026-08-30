@@ -29,6 +29,8 @@ Does it look like someone made the point with a marker on a whiteboard? If yes, 
 
 Dry-erase board, marker handwriting, crossed-out competitor doodle vs a checkmarked product, propped on a kitchen counter or desk.
 
-Example in this folder: Arrae "Forget your husband's creatine…" marker board, crossed-out competitor vs Arrae Tone.
+Example in the files folder:
+
+- Arrae "Forget your husband's creatine…" marker board, crossed-out competitor vs Arrae Tone
 
 See `execution-sop.md` for the build rules.

@@ -29,6 +29,8 @@ Is the hook a settings-style on/off switch overlaid on the image? If yes, Toggle
 
 iOS toggle rows, a "2025 goal" style header, one switch off + one green switch on, mirror-selfie or lifestyle background.
 
-Example in this folder: Orgain "2025 fitness goal: Skipping protein [off] / Orgain's shakes [on]".
+Example in the files folder:
+
+- Orgain "2025 fitness goal: Skipping protein [off] / Orgain's shakes [on]"
 
 See `execution-sop.md` for the build rules.

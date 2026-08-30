@@ -24,7 +24,7 @@ Ask: *does this look like someone answering a question posed through an Instagra
 
 - Instagram question sticker (AMA) answered in free-placed text overlay. The original static form.
 - TikTok comment-response sticker answered the same way.
-- A video (Instagram or TikTok) where the creator reads or references the sticker question and responds to it as the body of the ad (e.g. the Javvy example in this folder).
+- A video (Instagram or TikTok) where the creator reads or references the sticker question and responds to it as the body of the ad (e.g. the Javvy example in the files folder).
 
 ## Commonly confused with
 
