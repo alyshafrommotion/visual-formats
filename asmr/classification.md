@@ -29,8 +29,9 @@ If you muted it, would it lose most of its appeal? If yes (the sound is the hook
 
 Close-up hands, crisp clinks/ratchets/peels/pours, install or prep or assembly, no talking, clean quiet setting.
 
-Example in the files folder:
+Examples in the files folder:
 
 - Rough Country trifold bed-cover install with amplified clunks, ratchets, and snaps
+- Olipop drink-mix: the sensory sound of ice cubes in the glass carries the first mix. **Notable variation:** the second mix gets a little weird, swapping the pure sensory audio for a jingle. Usually ASMR is consistently the sensory experience, so this is a unique take, but it conveys a message using sound, which is smart. Still ASMR because sound leads.
 
 See `execution-sop.md` for the build rules.
