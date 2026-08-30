@@ -213,3 +213,5 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=hum-nutrition_vf=web-search.jpg` | hum-nutrition | - | web-search |
 | `b=grove-collaborative_vf=news.jpg` | grove-collaborative | - | news |
 | `b=lemme_vf=feature-benefit-callout.jpg` | lemme | - | feature-benefit-callout |
+| `b=olipop_vf=asmr.mp4` | olipop | - | asmr |
+| `b=olipop_vf=meme.jpeg` | olipop | - | meme |
