@@ -68,6 +68,7 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=dermatica_vf=instagram-text-overlay.jpeg` | dermatica | - | instagram-text-overlay |
 | `b=divi_vf=statistic.jpg` | divi | - | statistic |
 | `b=dollar-shave-club_vf=instagram-text-overlay.jpeg` | dollar-shave-club | - | instagram-text-overlay |
+| `b=dose_vf=ai-generated-static.jpg` | dose | - | ai-generated-static |
 | `b=dose_vf=feature-benefit-pointout.jpeg` | dose | - | feature-benefit-pointout |
 | `b=dose_vf=feature-benefit-pointout_n=2.jpeg` | dose | - | feature-benefit-pointout |
 | `b=dose_vf=whiteboard.jpg` | dose | - | whiteboard |
@@ -119,7 +120,11 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=kosas_vf=founder.mp4` | kosas | - | founder |
 | `b=laseraway_vf=instagram-text-overlay.jpeg` | laseraway | - | instagram-text-overlay |
 | `b=loop_vf=comment-response.jpg` | loop | - | comment-response |
+| `b=loop_vf=flyer_vf=meme.jpg` | loop | - | flyer + meme |
+| `b=loop_vf=greenscreen.mp4` | loop | - | greenscreen |
 | `b=loop_vf=instagram-text-overlay.jpg` | loop | - | instagram-text-overlay |
+| `b=loop_vf=meme.jpg` | loop | - | meme |
+| `b=loop_vf=street-interview.mp4` | loop | - | street-interview |
 | `b=lume-deodorant_vf=instagram-text-overlay.jpeg` | lume-deodorant | - | instagram-text-overlay |
 | `b=lume-deodorant_vf=letter.jpeg` | lume-deodorant | - | letter |
 | `b=lyka_vf=greenscreen.mp4` | lyka | - | greenscreen |
@@ -139,6 +144,7 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=moon-magic_vf=comment-response.png` | moon-magic | - | comment-response |
 | `b=mott-and-bow_vf=comment-screenshot.jpg` | mott-and-bow | - | comment-screenshot |
 | `b=mott-and-bow_vf=post-it.jpeg` | mott-and-bow | - | post-it |
+| `b=mous_vf=high-craft-edit.mp4` | mous | - | high-craft-edit |
 | `b=mud-wtr_vf=founder.mp4` | mud-wtr | - | founder |
 | `b=nanit_vf=post-it.mp4` | nanit | - | post-it |
 | `b=native-pet_vf=greenscreen.mp4` | native-pet | - | greenscreen |
@@ -187,6 +193,7 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=vrbo_vf=whiteboard.mp4` | vrbo | - | whiteboard |
 | `b=wild-nutrition_vf=us-vs-them.jpeg` | wild-nutrition | - | us-vs-them |
 | `b=winona_vf=comment-response.jpg` | winona | - | comment-response |
+| `b=your-heights_vf=sign.jpg` | your-heights | - | sign |
 | `b=your-heights_vf=us-vs-them.jpeg` | your-heights | - | us-vs-them |
 | `b=your-heights_vf=yapper.mp4` | your-heights | - | yapper |
 | `c=livrollings_vf=face-peeking-into-bottom-of-frame.jpg` | - | livrollings | face-peeking-into-bottom-of-frame |
@@ -211,6 +218,7 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=buoy_vf=instagram-text-overlay.jpg` | buoy | - | instagram-text-overlay |
 | `b=purdy-and-figg_vf=letter.jpg` | purdy-and-figg | - | letter |
 | `b=hum-nutrition_vf=web-search.jpg` | hum-nutrition | - | web-search |
+| `b=armra_vf=web-search.jpg` | armra | - | web-search |
 | `b=grove-collaborative_vf=news.jpg` | grove-collaborative | - | news |
 | `b=lemme_vf=feature-benefit-callout.jpg` | lemme | - | feature-benefit-callout |
 | `b=olipop_vf=asmr.mp4` | olipop | - | asmr |
@@ -219,3 +227,10 @@ Match the format token: all greenscreen examples are files containing `vf=greens
 | `b=made-in_vf=product-grid.jpg` | made-in | - | product-grid |
 | `b=made-in_vf=bento-grid.jpg` | made-in | - | bento-grid |
 | `b=vuori_vf=bento-grid.jpeg` | vuori | - | bento-grid |
+| `b=honour-health_vf=whiteboard.mp4` | honour-health | - | whiteboard |
+| `c=siffhaider_vf=podcast_vf=founder.mp4` | - | siffhaider | podcast + founder |
+| `b=alo-yoga_vf=bento-grid.jpg` | alo-yoga | - | bento-grid |
+| `b=dose_vf=flyer.jpg` | dose | - | flyer |
+| `b=armra_vf=letter.jpg` | armra | - | letter |
+| `b=obvi_vf=whiteboard.jpg` | obvi | - | whiteboard |
+| `b=onnit_vf=venn-diagram_vf=whiteboard.jpg` | onnit | - | venn-diagram + whiteboard |
